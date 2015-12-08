@@ -1,5 +1,5 @@
-# Pinterest-Utility-Scripts
-Random scripts for automation that have been used in other projects.
+# Pinterest Utility Scripts
+Scripts for automation that have been used in other projects.
 
 ***
 ###Autofollower
